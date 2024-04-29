@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["avro","cloud","csv","ipc","json","mmap","ndjson","parquet","partition","pl_async","predicates","prelude","utils"],"struct":["HiveOptions","RowIndex"],"trait":["ArrowReader","SerReader","SerWriter","WriterFactory"]};
